@@ -1,0 +1,14 @@
+node_modules
+dist
+.output
+.nitro
+.tanstack
+.vercel
+artifacts
+attachments
+screenshots
+.grok/skills
+.grok/preview.log
+.grok/status
+.project_id
+*.log
